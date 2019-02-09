@@ -1,5 +1,9 @@
 # wikipedia-viewer
 
-Wikipedia viewer from Free Code Camp
+Wikipedia viewer project from Free Code Camp.
 
-You can start your search [here](https://staog.github.io/wikipedia-viewer/)
+================================================================
+
+[DEMO](https://staog.github.io/wikipedia-viewer/)
+
+================================================================
